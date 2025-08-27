@@ -14,5 +14,9 @@
 			<groupId>nabu.services</groupId>
 			<artifactId>vm</artifactId>
 		</dependency>
+		<dependency>
+			<groupId>nabu.services</groupId>
+			<artifactId>iface</artifactId>
+		</dependency>
 	</dependencies>
 </project>
